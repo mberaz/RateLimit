@@ -1,1 +1,1 @@
-# RateLimit
+# RateLimiting
